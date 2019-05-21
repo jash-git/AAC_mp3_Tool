@@ -2,5 +2,7 @@
 WaveShop1.0.14_Portable.exe
 
 相關使用教學URL
-http://jashliao.eu/wordpress/2018/07/24/audacity-%E6%94%B9%E8%AE%8A-mp3-%E6%92%AD%E6%94%BE-%E9%80%9F%E5%BA%A6/
-http://jashliao.eu/wordpress/2018/07/24/line-aac-%E8%BD%89%E5%AD%98-mp3/
+    01.LINE AAC 轉存 MP3 [ MP3變成LINE可直接撥放的語音留言​]
+        http://jashliao.eu/yourls/fguerae 
+    02.AUDACITY 改變 MP3 播放 速度
+        http://jashliao.eu/yourls/fguerbp
